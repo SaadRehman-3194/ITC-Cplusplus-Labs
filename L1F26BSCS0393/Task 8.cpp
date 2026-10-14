@@ -1,8 +1,6 @@
 /*
-  Name: Saad Rehman
-  Roll no: L1F26BSCS0393
-  Compute (a + b)^2 for a = 7, b = 9, using arithmetic only (no pow).
-  */
+Compute (a + b)^2 for a = 7, b = 9, using arithmetic only (no pow).
+*/
 #include <iostream>
 using namespace std;
 int main()
