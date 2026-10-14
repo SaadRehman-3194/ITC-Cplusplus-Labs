@@ -1,7 +1,5 @@
 /*
- Name:Saad Rehman
- Roll No: L1F26BSCS0393
- Write a C++ program that evaluate the following expressions.
+Write a C++ program that evaluate the following expressions.
 1.	25/3
 2.	20 – 12 / 4 * 2
 3.	32 % 7
