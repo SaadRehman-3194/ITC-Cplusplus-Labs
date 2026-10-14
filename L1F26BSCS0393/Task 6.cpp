@@ -1,8 +1,6 @@
 /*
-  Name: Saad Rehman
-  Roll no: L1F26BSCS0393
- Evaluate the quadratic expression ax^2 + bx + c for a = 2, b = 3, c = 4, x = 5.
-  */
+Evaluate the quadratic expression ax^2 + bx + c for a = 2, b = 3, c = 4, x = 5.
+*/
 #include <iostream>
 using namespace std;
 int main()
