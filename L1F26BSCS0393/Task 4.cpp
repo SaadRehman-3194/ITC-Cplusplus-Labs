@@ -1,8 +1,6 @@
 /*
-  Name: Saad Rehman
-  Roll no: L1F26BSCS0393
-  Print the result of a^2 + b^2 + 2ab 
-  */
+Print the result of a^2 + b^2 + 2ab 
+*/
 #include <iostream>
 using namespace std;
 int main()
