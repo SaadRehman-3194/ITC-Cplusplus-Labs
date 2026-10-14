@@ -1,7 +1,3 @@
-/*
-  Nane: Saad rehman
-  Roll no: L1F26BSCS0393
-*/
 #include <iostream>
 using namespace std;
 int main()
