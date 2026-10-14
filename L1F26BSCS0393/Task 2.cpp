@@ -1,8 +1,6 @@
 /*
-  Name: Saad Rehman
-  Roll No: L1F26BSCS0393
-  Use cout to evaluate and display results of expressions with different operator precedence.
-  */
+Use cout to evaluate and display results of expressions with different operator precedence.
+*/
 #include <iostream>
 using namespace std;
 int main()
