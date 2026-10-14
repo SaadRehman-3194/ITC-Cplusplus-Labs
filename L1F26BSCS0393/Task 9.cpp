@@ -1,8 +1,6 @@
 /*
-  Name: Saad Rehman
-  Roll no: L1F26BSCS0393
-  Evaluate: (100 % 7) * (50 / 4) + 12 % 5.
-  */
+Evaluate: (100 % 7) * (50 / 4) + 12 % 5.
+*/
 #include <iostream>
 using namespace std;
 int main()
