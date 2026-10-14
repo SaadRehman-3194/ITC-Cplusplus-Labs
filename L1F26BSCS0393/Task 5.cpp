@@ -1,8 +1,6 @@
 /*
-  Name: Saad Rehman
-  Roll no: L1F26BSCS0393
-  Evaluate and print the result of each expression
-  */
+Evaluate and print the result of each expression
+*/
 #include <iostream>
 using namespace std;
 int main()
