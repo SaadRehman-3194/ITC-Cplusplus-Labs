@@ -1,8 +1,6 @@
 /*
-  Name: Saad Rehman
-  Roll no: L1F26BSCS0393
-  Write a program using only cout to compute the area of a rectangle where length = 10 and width = 5.
-  */
+Write a program using only cout to compute the area of a rectangle where length = 10 and width = 5.
+*/
 #include <iostream>
 using namespace std;
 int main()
